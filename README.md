@@ -7,7 +7,6 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ## Transaction Dashboard
 
 ![Transaction Dashboard](https://github.com/himanshu-banodha/Credit-Card-Dashboard-Power-BI/blob/main/Credit%20Card%20Transaction%20Dashboard.pdf)
-
 ## Customer Dashboard
 
 ![Transaction Dashboard](https://github.com/himanshu-banodha/Credit-Card-Dashboard-Power-BI/blob/main/Credit%20Card%20Customer%20Dashboard.pdf)
